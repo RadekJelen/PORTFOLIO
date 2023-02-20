@@ -5,7 +5,7 @@ My name is Radosław Jeleń. I have recently embarked on a career change journey
 
 **My experience**
 
-My previous experience is mainly related to the kitchen and catering. I have worked as a shift cook, breakfast cook and even as an assistant chef. I have also completed such majors as dietetics and demand. I really enjoy learning new interesting things.   Ostania I have a very strong interest in programming and software testing. I think it is what turns me on and what I would like to continue doing in life. In this repository there are numerous repositories that I managed to create as part of the course and as a hobbyist. I also try to keep abreast of industry news and also participate in various activities that will allow me to better develop myself in this field.  
+My previous experience is mainly related to the kitchen and catering. I have worked as a shift cook, breakfast cook and even as an sous chef. I have also completed such majors as dietetics and demand. I really enjoy learning new interesting things. I am very interested in programming and software testing. I think it is what I would like to do in my life. In this repository are numerous projects that I managed to create as part of the course and as a hobbyist. I also try to keep abreast of industry news and also participate in various activities that will allow me to better develop myself in this field.  
 
 
 ## Courses
@@ -21,14 +21,13 @@ My previous experience is mainly related to the kitchen and catering. I have wor
 
 ## Tools 
 
-* Jira - bug tracker
-* Trello, Jira - project management
+* Jira, Trello - project management, bug tracker
 * TestRail, TestLink - test cases management
 * Slack, Telegram - for communication within the team
 * Chrome DevTools - for testing and to improve bug reports
-* Git, GitHub - maintenance and version control
+* Git, GitHub - version control
 * Postman - testing tool for REST API
-* JavaScript - basics of Java language
+* JavaScript - basics of JavaScript language
 * Markdown
 * HTML/CSS
 
@@ -41,21 +40,15 @@ My previous experience is mainly related to the kitchen and catering. I have wor
 ## Blogs I read
 
 * [testerzy.pl](https://testerzy.pl/)
-* [remigiuszbednarczyk.pl.pl](https://remigiuszbednarczyk.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
-
-## IT groups on Facebook I follow
-
-* Testowanie oprogramowania
-* Tester oprogramowania - wsparcie na starcie
-* Start w IT - początkujący tester oprogramowania i programista
-* Praca IT / Jobs IT
 
 ## My projects
 
 **Test Suites/Cases**
 
 Below are examples of my test cases created as part of the QA 2023 marathon.
+* [LINK to test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)
 * [LINK to test case](https://drive.google.com/file/d/1TCM-FJS26PGXKFRWSaK8Q1pWCVQ_4peg/view)
 * [LINK to test case](https://drive.google.com/file/d/1iJk1rjSDVC4Dy66DS9MXB-w4fG4KND1S/view)
 * [LINK to test case](https://drive.google.com/file/d/1658E1Dl5-LU0kSrPT6AqkAs86u5oXuNN/view)
@@ -82,4 +75,4 @@ Below are examples of my bug-finding reports for the 2023 QA marathon - based on
 
 **Other projects**
 
-[LINK to to my development projects](https://github.com/RadekJelen?tab=repositories)
+[LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
