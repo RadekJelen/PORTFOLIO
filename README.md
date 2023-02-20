@@ -47,31 +47,13 @@ My previous experience is mainly related to the kitchen and catering. I have wor
 
 **Test Suites/Cases**
 
-Below are examples of my test cases created as part of the QA 2023 marathon.
-* [LINK to test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)
-* [LINK to test case](https://drive.google.com/file/d/1TCM-FJS26PGXKFRWSaK8Q1pWCVQ_4peg/view)
-* [LINK to test case](https://drive.google.com/file/d/1iJk1rjSDVC4Dy66DS9MXB-w4fG4KND1S/view)
-* [LINK to test case](https://drive.google.com/file/d/1658E1Dl5-LU0kSrPT6AqkAs86u5oXuNN/view)
-* [LINK to test case](https://drive.google.com/file/d/106NT_7oiWJY_itRronDGoMYyWGm1xn0M/view)
-* [LINK to test case](https://drive.google.com/file/d/1Gkhh9aQwC7H-OQLc7CvAa7AsC1u3Rdu3/view)
-
+Examples of my test cases created as part of the QA 2023 marathon - [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)
 
 **Reports**
 
-Below are examples of my bug-finding reports for the 2023 QA marathon - based on documentation.
-* [LINK to report](https://drive.google.com/file/d/1CUJLJXPJ_zCx2fuXzVCwl-Eou9kwJrOS/view)
-* [LINK to report](https://drive.google.com/file/d/10zMz6BuGmV97sgnK3dimfmeDdc_OvvoX/view)
-* [LINK to report](https://drive.google.com/file/d/1PVdovpSncFfCMHREHLjGSDfiMRwYXQGF/view)
-* [LINK to report](https://drive.google.com/file/d/1kiqm3UlcM9830JwTHFUUxzXGHsYfCofm/view)
-* [LINK to report](https://drive.google.com/file/d/1blzNAbfEC6OHapKTLZUVvIL3hpcrapLz/view)
+Examples of my bug-finding reports for the 2023 QA marathon - based on documentation - [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)
 
-Below are examples of my bug-finding reports for the 2023 QA marathon - based on user feedback.
-* [LINK to report](https://drive.google.com/file/d/16VublmPQNoCVSyGiJt0PY1vi9RGA-OyF/view)
-* [LINK to report](https://drive.google.com/file/d/1tA-K4TMlvcF6YB7FlIn6cmQ_zmp7ACzr/view)
-* [LINK to report](https://drive.google.com/file/d/15NZzl-ww8oPOdisxebxtGdSaMsKLTbEg/view)
-* [LINK to report](https://drive.google.com/file/d/1Q-BI8kp8RppTe66orF4i26nwo84raawA/view)
-* [LINK to report](https://drive.google.com/file/d/1tcUC5dQ9hwaNmtNyQCvNgGnZkVGH5KY1/view)
-
+Examples of my bug-finding reports for the 2023 QA marathon - based on user feedback - [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)
 
 **Other projects**
 
