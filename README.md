@@ -5,7 +5,7 @@ My name is Radosław Jeleń. I have recently embarked on a career change journey
 
 **My experience**
 
-My previous experience is mainly related to the kitchen and catering. I have worked as a shift cook, breakfast cook and even as an sous chef. I have also completed such majors as dietetics and demand. I really enjoy learning new interesting things. I am very interested in programming and software testing. I think it is what I would like to do in my life. In this repository are numerous projects that I managed to create as part of the course and as a hobbyist. I also try to keep abreast of industry news and also participate in various activities that will allow me to better develop myself in this field.  
+My previous experience is mainly related to cooking and catering. I have worked as a shift cook, breakfast cook and even as a sous chef. I've also completed such majors as dietetics and demand. I really enjoy learning new interesting things. I am very interested in programming and software testing. I think this is what I would like to do in life. In this repository there are numerous projects that I have managed to create in the course and as a hobby. I also try to keep abreast of industry news, as well as participate in various classes that will allow me to better develop in this field.  
 
 
 ## Courses
