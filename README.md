@@ -55,6 +55,10 @@ Examples of my bug-finding reports for the 2023 QA marathon - based on documenta
 
 Examples of my bug-finding reports for the 2023 QA marathon - based on user feedback - [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)
 
+**Test paln**
+
+An example of my test plan that was created based on my [Currency-Converter-React](https://github.com/RadekJelen/currency-converter-React) application - [LINK to folder with test plan](https://drive.google.com/drive/folders/1EjFrEPvr394rudIwSHudR8KbQyK7_BWQ?usp=share_link)
+
 **Other projects**
 
 [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
