@@ -25,7 +25,8 @@ My previous experience is mainly related to cooking and catering. I have worked 
 * TestRail, TestLink - test cases management
 * Slack, Telegram - for communication within the team
 * BrowserStack, Lambdatest - working on different systems and versions
-* Chrome DevTools - for testing and to improve bug reports
+* Figma - project templates and documentation
+* Chrome, Opera, Firefox, Edge - for testing and to improve bug reports
 * Git, GitHub - version control
 * Postman - testing tool for REST API
 * PickPick, Sharex, ScreenToGiff - creation of photos for documentation 
