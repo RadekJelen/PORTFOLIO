@@ -38,9 +38,9 @@ My previous experience is mainly related to cooking and catering. I have worked 
 
 ## Books
 
-* [Testowanie oprogramowiania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* Zawód Tester - Radosław Smilgin
-* Nie każ mi myśleć - Steve Krug
+* ["Testowanie oprogramowiania" - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* "Zawód Tester" - Radosław Smilgin
+* "Nie każ mi myśleć" - Steve Krug
 
 ## Blogs I read
 
