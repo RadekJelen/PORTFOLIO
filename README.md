@@ -10,7 +10,7 @@ My previous experience is mainly related to cooking and catering. I have worked 
 
 ## Courses
 * "Tester manualny. Poziom podstawowy" - Videopoint (Paweł Rachwał)
-* "Praktyczny kurs testowania oprogramowania" - UUdemy (Rafał Podraza)
+* "Praktyczny kurs testowania oprogramowania" - Udemy (Rafał Podraza)
 * 4-day Marathon QA from GoIT in Feb 2023
 * uTest Academy
 * "Frontend Developer od podstaw" - YouCode IT (Krzysztof Dąbrowski)
