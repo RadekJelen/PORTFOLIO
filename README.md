@@ -9,7 +9,7 @@ My previous experience is mainly related to cooking and catering. I have worked 
 
 
 ## Courses
-* "Tester manualny. Poziom podstawowy" - Videopoint (Paweł Rachwał)
+* "Tester manualny. Poziom podstawowy i rozszerzony" - Videopoint (Paweł Rachwał)
 * "Praktyczny kurs testowania oprogramowania" - Udemy (Rafał Podraza)
 * 4-day Marathon QA from GoIT in Feb 2023
 * uTest Academy
