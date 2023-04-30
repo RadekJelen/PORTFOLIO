@@ -60,9 +60,9 @@ Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs 
 - Levels and types of testing
 - Test design techniques
 - Testing principles
+- REST API testing
 - According to ISTQB
 - TQED method
-
 
 ### July 2022
 ☑️ <a href="https://drive.google.com/file/d/1OeEmp0GBKmZYGc_1TwMEvypZvoZ1lJxo/view?usp=sharing" target="_blank">Frontend Developer from the ground up ('Frontend Developer od podstaw') - YouCode IT (Krzysztof Dąbrowski)</a>
@@ -90,22 +90,45 @@ Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs 
 - BrowserStack
 - SQL
 
+## <a name="tools">TOOLS</a>
 
-## Tools 
+- **Jira, Trello** - project management, bug tracker
+- **TestRail, TestLink** - test cases management
+- **Slack, Telegram** - for communication within the team
+- **BrowserStack, Lambdatest** - working on different systems and versions
+- **Figma** - project templates and documentation
+- **Chrome, Opera, Firefox, Edge** - testing and to improve bug reports
+- **Git, GitHub** - version control
+- **Postman** - testing tool for REST API
+- **PickPick, Sharex, ScreenToGiff** - creation of photos for documentation 
+- **MS Word and Exel** - documentation creation
+- **VS Code** - editing source code
 
-* Jira, Trello - project management, bug tracker
-* TestRail, TestLink - test cases management
-* Slack, Telegram - for communication within the team
-* BrowserStack, Lambdatest - working on different systems and versions
-* Figma - project templates and documentation
-* Chrome, Opera, Firefox, Edge - for testing and to improve bug reports
-* Git, GitHub - version control
-* Postman - testing tool for REST API
-* PickPick, Sharex, ScreenToGiff - creation of photos for documentation 
-* MS Word and Exel - documentation creation
-* JavaScript - basics of JavaScript language
-* Markdown
-* HTML/CSS
+## <a name="techskills">TECH SKILLS</a>
+
+- knowledge of **testing procedures** and the creation of **test documentation**
+- knowledge of Syllabus **ISTQB Foundation level**
+- **DevTools** knowledge
+- **REST API testing**
+- understanding of different delivery **methodologies** (agile, waterfall, v-model)
+- communicative **English**
+- knowledge in developing applications on the basis of languages **HTML, CSS** and **JS**
+
+## <a name="softskills">SOFT SKILLS</a>
+
+💡 analytical thinking
+
+:chart_with_upwards_trend: looking for effective solutions
+
+:art: creativity
+
+:crystal_ball: inquisitiveness
+
+:moyai: patience
+
+🔎 accuracy
+
+🙌 teamwork
 
 ## Books
 
