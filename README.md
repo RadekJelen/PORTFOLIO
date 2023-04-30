@@ -24,37 +24,72 @@
 ### <p align="center"><a href="https://linkedin.com/in/radosław-jeleń-904811255" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
 ## <a name="projects">PROJECTS</a>
-
-### ***MARATHON QA 2023*** - organised by GOIT
- *(in February 2023)*
  
-The content of the marathon includes creating test cases on your own based on documentation, learning how to report bugs in Jira based on specifications and user requests.
+- ### ***MARATHON QA 2023*** - organised by GOIT *(February 2023)*
+ 
+  The content of the marathon includes creating test cases on your own based on documentation, learning how to report   bugs   in Jira based on specifications and user requests.
 
-List of completed tasks:
+   :arrow_forward: [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)<br>
+   :arrow_forward: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
+   :arrow_forward: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
 
-:one: [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)<br>
-:two: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
-:three: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
+- ### ***MY OWN TESTS*** 
 
-### ***MY OWN TESTS*** 
+   :warning:⚙<b>Work is in progress</b>⚙:warning: 
 
- :warning:⚙<b>Work is in progress</b>⚙:warning: 
+- ### **OTHER PROJECTS**
 
- ### **OTHER PROJECTS**
+   :arrow_forward: [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
 
-[LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
+## <a name="courses">COURSES</a>
 
-## Courses
-* "Tester manualny. Poziom podstawowy i rozszerzony" - Videopoint (Paweł Rachwał)
-* "Praktyczny kurs testowania oprogramowania" - Udemy (Rafał Podraza)
-* 4-day Marathon QA from GoIT in Feb 2023
-* uTest Academy
-* "Frontend Developer od podstaw" - YouCode IT (Krzysztof Dąbrowski)
+### April 2023
+Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
-## Certificates
+:warning:⚙<b>Work is in progress</b>⚙:warning:
 
-* Practical software testing course passed in Apr 2022
-* Frontend Developer from the ground up passed in Jan 2023
+### March 2023
+☑️ <a href="https://drive.google.com/file/d/1U0IYHmSFcrS_OHCpPmt2jch3ByR3-FTY/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Start your career in IT + Test design techniques ('Tester manualny. Kurs video. Rozpocznij karierę w IT + Techniki projektowania testów') - Videopoint (Paweł Rachwał)</a>
+
+- Role of the tester in the team
+- Test process
+- Test analysis
+- Test design and execution
+- Defect reporting in JIRA
+- Software development models (Agile, Scrum, Kanban)
+- Levels and types of testing
+- Test design techniques
+- Testing principles
+- According to ISTQB
+- TQED method
+
+
+### July 2022
+☑️ <a href="https://drive.google.com/file/d/1OeEmp0GBKmZYGc_1TwMEvypZvoZ1lJxo/view?usp=sharing" target="_blank">Frontend Developer from the ground up ('Frontend Developer od podstaw') - YouCode IT (Krzysztof Dąbrowski)</a>
+
+- Scrum
+- Git, GitHub
+- Redux
+- React (Hooks)
+- Storage API
+- JavaScript (ES6+, Promises, async/await)
+- CSS (Flexbox, Grid, RWD)
+- HTML (semantics, accessibility)
+- Code Review
+
+### May 2022
+
+☑️ <a href="https://www.udemy.com/certificate/UC-acc29825-ce06-4ba0-9f37-549ba10b5117/" target="_blank">Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy (Rafał Podraza)</a>
+
+- Exploratory testing
+- Using DevTools
+- Using Jira to bug reporting
+- Postman - basics
+- GIT - basics
+- JMeter - basics
+- BrowserStack
+- SQL
+
 
 ## Tools 
 
