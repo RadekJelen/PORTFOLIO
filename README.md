@@ -4,7 +4,7 @@
 
 -----
 
-:white_circle: [ABOUT ME](#aboutme)
+[ABOUT ME](#aboutme)
 :white_circle: [PROJECTS](#projects)
 :white_circle: [COURSES](#courses)
 :white_circle: [TOOLS](#tools)
@@ -132,8 +132,8 @@ Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs 
 ## Books
 
 * ["Testowanie oprogramowiania" - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* "Zawód Tester" - Radosław Smilgin
-* "Nie każ mi myśleć" - Steve Krug
+* ["Zawód Tester" - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester) 
+* ["Nie każ mi myśleć" - Steve Krug](https://lubimyczytac.pl/ksiazka/293495/nie-kaz-mi-myslec-o-zyciowym-podejsciu-do-funkcjonalnosci-stron-internetowych-wydanie-iii)
 
 ## Blogs I read
 
