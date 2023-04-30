@@ -1,11 +1,28 @@
-# PORTFOLIO
+# SOFTWARE TESTER PORTFOLIO - Radosław Jeleń 
 
-## About me
-My name is Radosław Jeleń. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+#### :pushpin: TABLE OF CONTENTS
 
-**My experience**
+-----
 
-My previous experience is mainly related to cooking and catering. I have worked as a shift cook, breakfast cook and even as a sous chef. I've also completed such majors as dietetics and demand. I really enjoy learning new interesting things. I am very interested in programming and software testing. I think this is what I would like to do in life. In this repository there are numerous projects that I have managed to create in the course and as a hobby. I also try to keep abreast of industry news, as well as participate in various classes that will allow me to better develop in this field.  
+:white_circle: [ABOUT ME](#aboutme)
+:white_circle: [PROJECTS](#projects)
+:white_circle: [COURSES](#courses)
+:white_circle: [TOOLS](#tools)
+:white_circle: [TECH SKILLS](#techskills)
+:white_circle: [SOFT SKILLS](#softskills)
+:white_circle: [BOOKS ABOUT TESTING](#books)
+:white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs)
+:white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face)
+
+-----
+
+## <a name="aboutme">ABOUT ME</a>
+
+ ### <p align="center"><b>Why did I decide to become a software tester?</b></p>
+<p align="justify">I am the person in the team who can look critically and at the same time delicately give comments without hurting anyone. In my work I always take care of high quality and every detail of the tasks performed. I can find mistakes, but I also appreciate constructive criticism, because it allows me to self-develop. The constant desire for self-development is another advantage of being a tester which convinced me to choose this career path. During the training process, I mastered the skills of exploratory testing, website testing and REST API testing, writing test cases, reporting defects and creating test reports. I know how to use Chrome DevTools, Jira, Postman, GIT and GitHub. The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I'm convinced that I want to go deeper into the world of testing. I am ready to take on new challenges as a member of the development team.</p>
+
+### <p align="center"><a href="https://linkedin.com/in/radosław-jeleń-904811255" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+
 
 
 ## Courses
