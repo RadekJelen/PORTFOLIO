@@ -23,7 +23,26 @@
 
 ### <p align="center"><a href="https://linkedin.com/in/radosław-jeleń-904811255" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
+## <a name="projects">PROJECTS</a>
 
+### ***MARATHON QA 2023*** - organised by GOIT
+ *(in February 2023)*
+ 
+The content of the marathon includes creating test cases on your own based on documentation, learning how to report bugs in Jira based on specifications and user requests.
+
+List of completed tasks:
+
+:one: [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)<br>
+:two: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
+:three: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
+
+### ***MY OWN TESTS*** 
+
+ :warning:⚙<b>Work is in progress</b>⚙:warning: 
+
+ ### **OTHER PROJECTS**
+
+[LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
 
 ## Courses
 * "Tester manualny. Poziom podstawowy i rozszerzony" - Videopoint (Paweł Rachwał)
@@ -65,22 +84,4 @@
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
-## My projects
 
-**Test Suites/Cases**
-
-Examples of my test cases created as part of the QA 2023 marathon - [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)
-
-**Reports**
-
-Examples of my bug-finding reports for the 2023 QA marathon - based on documentation - [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)
-
-Examples of my bug-finding reports for the 2023 QA marathon - based on user feedback - [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)
-
-**Test paln**
-
-An example of my test plan that was created based on my [Currency-Converter-React](https://github.com/RadekJelen/currency-converter-React) application - [LINK to folder with test plan](https://drive.google.com/drive/folders/1EjFrEPvr394rudIwSHudR8KbQyK7_BWQ?usp=share_link)
-
-**Other projects**
-
-[LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
