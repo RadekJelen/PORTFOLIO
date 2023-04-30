@@ -12,7 +12,6 @@
 :white_circle: [SOFT SKILLS](#softskills)
 :white_circle: [BOOKS ABOUT TESTING](#books)
 :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs)
-:white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face)
 
 -----
 
@@ -116,19 +115,19 @@ Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs 
 
 ## <a name="softskills">SOFT SKILLS</a>
 
-💡 analytical thinking
+- 💡 analytical thinking
 
-:chart_with_upwards_trend: looking for effective solutions
+- :chart_with_upwards_trend: looking for effective solutions
 
-:art: creativity
+- :art: creativity
 
-:crystal_ball: inquisitiveness
+- :crystal_ball: inquisitiveness
 
-:moyai: patience
+- :moyai: patience
 
-🔎 accuracy
+- 🔎 accuracy
 
-🙌 teamwork
+- 🙌 teamwork
 
 ## Books
 
