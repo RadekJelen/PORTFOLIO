@@ -1,6 +1,6 @@
-# SOFTWARE TESTER PORTFOLIO - Radosław Jeleń 
+# <a name="start">SOFTWARE TESTER PORTFOLIO - Radosław Jeleń</a>
 
-#### :pushpin: TABLE OF CONTENTS
+#### :pushpin: TABLE OF CONTENTS 
 
 -----
 
@@ -46,6 +46,18 @@
 Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
 :warning:⚙<b>Work is in progress</b>⚙:warning:
+
+- Overview of testing tools 
+- Effective use of tools 
+- Reporting a bug in Jira 
+- API testing in Postman
+- Versioning in Github
+- Testing requirements
+- Testable application components
+- GUI and web application testing - Buttons, Hamburger menus, Forms, etc.
+- E-commerce testing
+- Exploratory testing
+
 
 ### March 2023
 ☑️ <a href="https://drive.google.com/file/d/1U0IYHmSFcrS_OHCpPmt2jch3ByR3-FTY/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Start your career in IT + Test design techniques ('Tester manualny. Kurs video. Rozpocznij karierę w IT + Techniki projektowania testów') - Videopoint (Paweł Rachwał)</a>
@@ -129,16 +141,30 @@ Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs 
 
 - 🙌 teamwork
 
-## Books
+## <a name="books">BOOKS ABOUT TESTING</a>
 
-* ["Testowanie oprogramowiania" - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* ["Zawód Tester" - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester) 
-* ["Nie każ mi myśleć" - Steve Krug](https://lubimyczytac.pl/ksiazka/293495/nie-kaz-mi-myslec-o-zyciowym-podejsciu-do-funkcjonalnosci-stron-internetowych-wydanie-iii)
+:arrow_forward: <a href="https://pwicherski.gitbook.io/testowanie-oprogramowania/" target="_blank">Testowanie oprogramowiania (Piotr Wicherski)</a>
 
-## Blogs I read
+:arrow_forward: <a href="https://lubimyczytac.pl/ksiazka/291227/zawod-tester" target="_blank">Zawód tester. Zawód Tester (Radosław Smilgin)</a>
 
-* [testerzy.pl](https://testerzy.pl/)
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+:arrow_forward: <a href="https://lubimyczytac.pl/ksiazka/293495/nie-kaz-mi-myslec-o-zyciowym-podejsciu-do-funkcjonalnosci-stron-internetowych-wydanie-iii">Nie każ mi myśleće (Steve Krug)</a>
+
+## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
+
+:arrow_forward: [testuj.pl](https://testuj.pl/blog/)
+
+:arrow_forward: [Quality Island](https://qualityisland.pl/blog/)
+
+:arrow_forward: [testerzy.pl](https://testerzy.pl/)
+
+:arrow_forward: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/)
+
+:arrow_forward: [testelka](https://testelka.pl/blog/)
+
+:arrow_forward: [Remigiusz Bednarczyk - dowiedz się, jak zostać testerem](https://remigiuszbednarczyk.pl/)
+
+---------
+
+<p align="center"><a href="#start"><b>🔼 BACK TO START 🔼</b></a></p>
 
 
