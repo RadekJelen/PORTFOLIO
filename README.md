@@ -26,11 +26,11 @@
  
 - ### ***MARATHON QA 2023*** - organised by GOIT *(February 2023)*
  
-  The content of the marathon includes creating test cases on your own based on documentation, learning how to report   bugs   in Jira based on specifications and user requests.
+  The content of the marathon includes creating test cases on your own based on documentation, learning how to report bugs in Jira based on specifications and user requests.
 
    :arrow_forward: [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)<br>
-   :arrow_forward: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
-   :arrow_forward: [LINK to folder with reports](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
+   :arrow_forward: [LINK to folder with reports (specifications)](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
+   :arrow_forward: [LINK to folder with reports (user requests)](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
 
 - ### ***MY OWN TESTS*** 
 
@@ -43,9 +43,7 @@
 ## <a name="courses">COURSES</a>
 
 ### April 2023
-Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
-
-:warning:⚙<b>Work is in progress</b>⚙:warning:
+☑️ <a href="https://drive.google.com/file/d/10nKo7uqeIUhFKkSezX94cifV35Rsjiro/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
 - Overview of testing tools 
 - Effective use of tools 
