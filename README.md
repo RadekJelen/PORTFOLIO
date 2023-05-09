@@ -34,7 +34,11 @@
 
 - ### ***MY OWN TESTS*** 
 
-   :warning:⚙<b>Work is in progress</b>⚙:warning: 
+-----
+
+  <p align="center">:warning:⚙<b>Work is in progress</b>⚙:warning:</p> 
+  
+-----
 
 - ### **OTHER PROJECTS**
 
@@ -43,6 +47,15 @@
 ## <a name="courses">COURSES</a>
 
 ### April 2023
+
+Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)
+
+-----
+
+  <p align="center">:warning:⚙<b>Work is in progress</b>⚙:warning:</p> 
+  
+-----
+
 ☑️ <a href="https://drive.google.com/file/d/10nKo7uqeIUhFKkSezX94cifV35Rsjiro/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
 - Overview of testing tools 
