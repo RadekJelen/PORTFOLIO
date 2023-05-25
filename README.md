@@ -158,6 +158,8 @@
 
 ## <a name="books">BOOKS ABOUT TESTING</a>
 
+:arrow_forward: <a href="https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
+
 :arrow_forward: <a href="https://pwicherski.gitbook.io/testowanie-oprogramowania/" target="_blank">Testowanie oprogramowiania (Piotr Wicherski)</a>
 
 :arrow_forward: <a href="https://lubimyczytac.pl/ksiazka/291227/zawod-tester" target="_blank">Zawód tester. Zawód Tester (Radosław Smilgin)</a>
