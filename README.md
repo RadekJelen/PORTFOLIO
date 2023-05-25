@@ -24,6 +24,12 @@
 
 ## <a name="projects">PROJECTS</a>
  
+- ### ***SQL COURSE TASKS*** - SQL course *(April 2023)*
+ 
+   The content of the course includes the creation of queries in SQL based on a previously prepared database. 
+
+    :arrow_forward: [LINK to folder with created queries](https://drive.google.com/drive/folders/1xfuBnIz3v6R8kOo4NOJk3pfaWNKDrknQ?usp=sharing)<br>
+ 
 - ### ***MARATHON QA 2023*** - organised by GOIT *(February 2023)*
  
   The content of the marathon includes creating test cases on your own based on documentation, learning how to report bugs in Jira based on specifications and user requests.
