@@ -48,13 +48,15 @@
 
 ### April 2023
 
-Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)
+☑️ <a href="https://drive.google.com/file/d/1nSHn3Tcr-9Y_VNjj-0qch_FmW9CA-wZe/view?usp=sharing" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
 
------
-
-  <p align="center">:warning:⚙<b>Work is in progress</b>⚙:warning:</p> 
-  
------
+- SQL language basics
+- data storage and processing
+- working with different types of data
+- extracting the necessary data from a database
+- principles of working with databases - downloading, filtering, sorting data
+- knowledge of basic functions - mathematical and date, text, conversion, aggregation
+- SQL Server Management Studio support 
 
 ☑️ <a href="https://drive.google.com/file/d/10nKo7uqeIUhFKkSezX94cifV35Rsjiro/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
