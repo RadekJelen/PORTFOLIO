@@ -127,6 +127,7 @@
 - **PickPick, Sharex, ScreenToGiff** - creation of photos for documentation 
 - **MS Word and Exel** - documentation creation
 - **VS Code** - editing source code
+- **SQL Server Management Studio** - writing and testing scripts
 
 ## <a name="techskills">TECH SKILLS</a>
 
@@ -137,6 +138,7 @@
 - understanding of different delivery **methodologies** (agile, waterfall, v-model)
 - communicative **English**
 - knowledge in developing applications on the basis of languages **HTML, CSS** and **JS**
+- knowledge of what **SQL** databases are and how they work
 
 ## <a name="softskills">SOFT SKILLS</a>
 
