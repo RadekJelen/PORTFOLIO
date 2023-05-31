@@ -42,7 +42,7 @@
 
 -----
 
-  <p align="center">:warning:⚙<b>Work is in progress</b>⚙:warning:</p> 
+  <p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
   
 -----
 
@@ -53,6 +53,14 @@
 ## <a name="courses">COURSES</a>
 
 ### April 2023
+
+-----
+
+<p align="center"><b>👨‍🎓🎓Prepare for the ISTQB exam foundation level👨‍🎓🎓</b></p>
+
+<p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
+  
+-----
 
 ☑️ <a href="https://drive.google.com/file/d/1nSHn3Tcr-9Y_VNjj-0qch_FmW9CA-wZe/view?usp=sharing" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
 
