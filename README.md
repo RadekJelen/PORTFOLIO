@@ -6,10 +6,10 @@
 
 [ABOUT ME](#aboutme)
 :white_circle: [PROJECTS](#projects)
-:white_circle: [COURSES](#courses)
+:white_circle: [COURSES AND CERTIFICATES](#coursesAndCertificates)
 :white_circle: [TOOLS](#tools)
-:white_circle: [TECH SKILLS](#techskills)
-:white_circle: [SOFT SKILLS](#softskills)
+:white_circle: [TECH SKILLS](#techSkills)
+:white_circle: [SOFT SKILLS](#softSkills)
 :white_circle: [BOOKS ABOUT TESTING](#books)
 :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs)
 
@@ -50,17 +50,20 @@
 
    :arrow_forward: [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
 
-## <a name="courses">COURSES</a>
+## <a name="coursesAndCertificates">COURSES AND CERTIFICATES</a>
+
+### August 2023
+
+☑️ <a href="https://drive.google.com/file/d/1J74ck8ozpJoWKDrRNfTphX5KpYYq1de_/view?usp=drive_link" target="_blank"> ISTQB ® Certified Tester Foundation Level ('Certyfikowany Tester ISTQB® Poziom Podstawowy') - Stowarzyszenie Jakości Systemów Informatycznych (SJSI)</a>
+
+- basics of testing
+- testing in the software lifecycle
+- static testing
+- testing techniques
+- test management
+- tools to support testing
 
 ### April 2023
-
------
-
-<p align="center"><b>👨‍🎓🎓Prepare for the ISTQB exam foundation level👨‍🎓🎓</b></p>
-
-<p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
-  
------
 
 ☑️ <a href="https://drive.google.com/file/d/1nSHn3Tcr-9Y_VNjj-0qch_FmW9CA-wZe/view?usp=sharing" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
 
@@ -143,10 +146,10 @@
 - **VS Code** - editing source code
 - **SQL Server Management Studio** - writing and testing scripts
 
-## <a name="techskills">TECH SKILLS</a>
+## <a name="techSkills">TECH SKILLS</a>
 
 - knowledge of **testing procedures** and the creation of **test documentation**
-- knowledge of Syllabus **ISTQB Foundation level**
+- knowledge of Syllabus **ISTQB Foundation Level**
 - **DevTools** knowledge
 - **REST API testing**
 - understanding of different delivery **methodologies** (agile, waterfall, v-model)
@@ -154,7 +157,7 @@
 - knowledge in developing applications on the basis of languages **HTML, CSS** and **JS**
 - knowledge of what **SQL** databases are and how they work
 
-## <a name="softskills">SOFT SKILLS</a>
+## <a name="softSkills">SOFT SKILLS</a>
 
 - 💡 analytical thinking
 
