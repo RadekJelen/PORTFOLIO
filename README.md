@@ -63,6 +63,10 @@
 - test management
 - tools to support testing
 
+☑️ <a href="https://drive.google.com/file/d/1cw0yt42AJyMzvynIfawwyTc16tRtAGAV/view?usp=sharing" target="_blank"> ISTQB® exam questions and answers ('Egzamin ISTQB® w pytaniach i odpowiedziach') - Udemy (Rafał Podraza)</a>
+
+- 400 questions and answers to prepare for the ISTQB® Foundation level exam
+
 ### April 2023
 
 ☑️ <a href="https://drive.google.com/file/d/1nSHn3Tcr-9Y_VNjj-0qch_FmW9CA-wZe/view?usp=sharing" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
