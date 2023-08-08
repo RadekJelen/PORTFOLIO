@@ -6,10 +6,10 @@
 
 [ABOUT ME](#aboutme)
 :white_circle: [PROJECTS](#projects)
-:white_circle: [COURSES AND CERTIFICATES](#coursesAndCertificates)
+:white_circle: [COURSES AND CERTIFICATES](#coursesandcertificates)
 :white_circle: [TOOLS](#tools)
-:white_circle: [TECH SKILLS](#techSkills)
-:white_circle: [SOFT SKILLS](#softSkills)
+:white_circle: [TECH SKILLS](#techskills)
+:white_circle: [SOFT SKILLS](#softskills)
 :white_circle: [BOOKS ABOUT TESTING](#books)
 :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs)
 
@@ -50,7 +50,7 @@
 
    :arrow_forward: [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
 
-## <a name="coursesAndCertificates">COURSES AND CERTIFICATES</a>
+## <a name="coursesandcertificates">COURSES AND CERTIFICATES</a>
 
 ### August 2023
 
@@ -146,7 +146,7 @@
 - **VS Code** - editing source code
 - **SQL Server Management Studio** - writing and testing scripts
 
-## <a name="techSkills">TECH SKILLS</a>
+## <a name="techskills">TECH SKILLS</a>
 
 - knowledge of **testing procedures** and the creation of **test documentation**
 - knowledge of Syllabus **ISTQB Foundation Level**
@@ -157,7 +157,7 @@
 - knowledge in developing applications on the basis of languages **HTML, CSS** and **JS**
 - knowledge of what **SQL** databases are and how they work
 
-## <a name="softSkills">SOFT SKILLS</a>
+## <a name="softskills">SOFT SKILLS</a>
 
 - 💡 analytical thinking
 
