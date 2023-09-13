@@ -36,21 +36,28 @@
 
    :arrow_forward: [LINK to folder with test cases](https://drive.google.com/drive/u/2/folders/1WhyyatFhwkK72J0r3P0Vg6e1Qi58RF5_)<br>
    :arrow_forward: [LINK to folder with reports (specifications)](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
-   :arrow_forward: [LINK to folder with reports (user requests)](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br>
+   :arrow_forward: [LINK to folder with reports (user requests)](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br> 
 
-- ### ***MY OWN TESTS*** 
+- ### ***TESTS PROJECTS*** - QA Manual Testing
+   This is my personal tester project where I want to post the test collections I have created. I will post here application specifications, test plans, manual test results and final        reports created. I'm basing this on applications I've created myself. The project aims to show my skills in manual testing, learning through experience and continuously improving my     skills.
 
------
-
-  <p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
-  
------
+   :arrow_forward: [LINK to Repository](https://github.com/RadekJelen/tests-projects)<br>
 
 - ### **OTHER PROJECTS**
 
    :arrow_forward: [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
 
 ## <a name="coursesandcertificates">COURSES AND CERTIFICATES</a>
+
+### September 2023
+
+⚙ <a> Postman from the ground up - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy (Rafał Podraza)</a> 
+
+-----
+
+  <p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
+  
+-----
 
 ### August 2023
 
