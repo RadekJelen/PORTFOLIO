@@ -38,10 +38,10 @@
    :arrow_forward: [LINK to folder with reports (specifications)](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
    :arrow_forward: [LINK to folder with reports (user requests)](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br> 
 
-- ### ***TESTS PROJECTS*** - QA Manual Testing
+- ### ***TESTS FOR PROJECTS*** - QA Manual Testing
    This is my personal tester project where I want to post the test collections I have created. I will post here application specifications, test plans, manual test results and final        reports created. I'm basing this on applications I've created myself. The project aims to show my skills in manual testing, learning through experience and continuously improving my     skills.
 
-   :arrow_forward: [LINK to Repository](https://github.com/RadekJelen/tests-projects)<br>
+   :arrow_forward: [LINK to Repository](https://github.com/RadekJelen/tests-for-projects)<br>
 
 - ### **OTHER PROJECTS**
 
