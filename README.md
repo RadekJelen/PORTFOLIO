@@ -23,6 +23,11 @@
 ### <p align="center"><a href="https://linkedin.com/in/radosław-jeleń-904811255" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
 ## <a name="projects">PROJECTS</a>
+
+- ### ***TESTS FOR PROJECTS*** - QA Manual Testing
+   This is my personal tester project where I want to post the test collections I have created. I will post here application specifications, test plans, manual test results and final        reports created. I'm basing this on applications I've created myself. The project aims to show my skills in manual testing, learning through experience and continuously improving my     skills.
+
+   :arrow_forward: [LINK to Repository](https://github.com/RadekJelen/tests-for-projects)<br>
  
 - ### ***SQL COURSE TASKS*** - SQL course *(April 2023)*
  
@@ -38,11 +43,6 @@
    :arrow_forward: [LINK to folder with reports (specifications)](https://drive.google.com/drive/u/2/folders/1u9RlyiOYqHt3lAPUMxiXaTV8Qp3CQCnl)<br>
    :arrow_forward: [LINK to folder with reports (user requests)](https://drive.google.com/drive/u/2/folders/1jpuzLMv7H9T_5qZqGImmmjZ9umK6T-km)<br> 
 
-- ### ***TESTS FOR PROJECTS*** - QA Manual Testing
-   This is my personal tester project where I want to post the test collections I have created. I will post here application specifications, test plans, manual test results and final        reports created. I'm basing this on applications I've created myself. The project aims to show my skills in manual testing, learning through experience and continuously improving my     skills.
-
-   :arrow_forward: [LINK to Repository](https://github.com/RadekJelen/tests-for-projects)<br>
-
 - ### **OTHER PROJECTS**
 
    :arrow_forward: [LINK to my development projects](https://github.com/RadekJelen?tab=repositories)
@@ -51,13 +51,17 @@
 
 ### September 2023
 
-⚙ <a> Postman from the ground up - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy (Rafał Podraza)</a> 
+☑️ <a href="https://www.udemy.com/certificate/UC-6e3f3c16-15b6-4ed6-a614-22e245a61c01/" target="_blank"> Postman from the ground up - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy (Rafał Podraza)</a> 
 
------
-
-  <p align="center">:warning:⚙<b>Work is in progress...</b>⚙:warning:</p> 
-  
------
+-  API testing
+- create queries using GET, POST, PUT, DELETE methods
+- passing parameters to a query
+- passing headers
+- creating global, environment, in-collection variables
+- implementing API automated tests
+- creating scripts executed before a query
+- testing with Postman Monitors
+- Newman and Mock Server tools
 
 ### August 2023
 
@@ -70,13 +74,13 @@
 - test management
 - tools to support testing
 
-☑️ <a href="https://drive.google.com/file/d/1cw0yt42AJyMzvynIfawwyTc16tRtAGAV/view?usp=sharing" target="_blank"> ISTQB® exam questions and answers ('Egzamin ISTQB® w pytaniach i odpowiedziach') - Udemy (Rafał Podraza)</a>
+☑️ <a href="https://www.udemy.com/certificate/UC-d0edc80b-64a1-4a22-ba36-a3731e591f85/" target="_blank"> ISTQB® exam questions and answers ('Egzamin ISTQB® w pytaniach i odpowiedziach') - Udemy (Rafał Podraza)</a>
 
 - 400 questions and answers to prepare for the ISTQB® Foundation level exam
 
 ### April 2023
 
-☑️ <a href="https://drive.google.com/file/d/1nSHn3Tcr-9Y_VNjj-0qch_FmW9CA-wZe/view?usp=sharing" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
+☑️ <a href="https://videopoint.pl/users/dyplom?id=f414d49dddd3e42be55f725ddf8b876d&action=publish&format=png" target="_blank"> Learn SQL! Video Course. 70 exercises in the basics of query development ('Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań') - Videopoint (Krystian Brożek)</a>
 
 - SQL language basics
 - data storage and processing
@@ -86,7 +90,7 @@
 - knowledge of basic functions - mathematical and date, text, conversion, aggregation
 - SQL Server Management Studio support 
 
-☑️ <a href="https://drive.google.com/file/d/10nKo7uqeIUhFKkSezX94cifV35Rsjiro/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
+☑️ <a href="https://videopoint.pl/users/dyplom?id=a32667f17f53af3eb64e1c273ebe7d59&action=publish&format=png" target="_blank"> Manual Tester. Video Course. Testing supported by tools ('Tester manualny. Kurs video. Testowanie wspierane narzędziami') - Videopoint (Paweł Rachwał)</a>
 
 - Overview of testing tools 
 - Effective use of tools 
@@ -101,7 +105,7 @@
 
 
 ### March 2023
-☑️ <a href="https://drive.google.com/file/d/1U0IYHmSFcrS_OHCpPmt2jch3ByR3-FTY/view?usp=sharing" target="_blank"> Manual Tester. Video Course. Start your career in IT + Test design techniques ('Tester manualny. Kurs video. Rozpocznij karierę w IT + Techniki projektowania testów') - Videopoint (Paweł Rachwał)</a>
+☑️ <a href="https://videopoint.pl/users/dyplom?id=ed015d4e4d019292c43774ad5d040b69&action=publish&format=png" target="_blank"> Manual Tester. Video Course. Start your career in IT + Test design techniques ('Tester manualny. Kurs video. Rozpocznij karierę w IT + Techniki projektowania testów') - Videopoint (Paweł Rachwał)</a>
 
 - Role of the tester in the team
 - Test process
